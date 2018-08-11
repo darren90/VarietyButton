@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'VarietyButton_Example' do
+  pod 'VarietyButton', :path => '../'
+
+  target 'VarietyButton_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+  end
+end

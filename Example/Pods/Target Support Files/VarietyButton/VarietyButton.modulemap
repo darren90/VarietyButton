@@ -1,0 +1,6 @@
+framework module VarietyButton {
+  umbrella header "VarietyButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

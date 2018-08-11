@@ -1,0 +1,6 @@
+framework module Pods_VarietyButton_Example {
+  umbrella header "Pods-VarietyButton_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

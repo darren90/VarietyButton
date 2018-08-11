@@ -1,0 +1,27 @@
+PODS:
+  - Expecta (1.0.6)
+  - Specta (1.0.7)
+  - VarietyButton (0.1.0)
+
+DEPENDENCIES:
+  - Expecta
+  - Specta
+  - VarietyButton (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Expecta
+    - Specta
+
+EXTERNAL SOURCES:
+  VarietyButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+  VarietyButton: 5a74c9a1a1121aae31f097855a5ae73d4a228d06
+
+PODFILE CHECKSUM: b8d8d520150a32972e2bb74c5561ffc1d30e355f
+
+COCOAPODS: 1.5.0
